@@ -9,4 +9,4 @@ por el usuario. Inicialmente el cursor se situará junto a la palabra OFF, y el 
 indicado por el usuario. El proceso se podrá repetir tantas veces como se desee.
 
 ### Preview
-![name-of-you-image](https://github.com/LuisHCR/control-iluminación-led-arduino/blob/main/preview/preview.jpg?raw=true)
+![name-of-you-image](https://github.com/LuisHCR/control-iluminacion-led-arduino/blob/main/preview/preview.jpg?raw=true)
